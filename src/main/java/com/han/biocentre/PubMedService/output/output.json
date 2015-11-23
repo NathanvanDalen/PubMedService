@@ -1,0 +1,11 @@
+{
+    "output": {
+        "database": "localPubMed",
+        "query": "SELECT PMID, Compound FROM PubMed WHERE Compound = 'Zinc'",
+        "results": {
+            "PMIDS": ["26050091", "26096734", "26216012"],
+            "Compounds": ["Zinc", "Zinc", "Zinc"]
+        }
+    }
+}
+

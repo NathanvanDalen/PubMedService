@@ -1,0 +1,14 @@
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/PubMedConfiguration.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/database/SqlDatabaseConnection.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/output/JsonString.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/database/ExpressionBuilder.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/output/Output.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/core/Saying.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/output/JsonResultsString.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/output/JsonColumnString.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/database/DatabaseUrlCreator.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/PubMedApplication.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/resources/PubMedResource.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/health/PubMedServiceHealthCheck.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/output/JsonCreator.java
+/Users/nathanvandalen/GitHub/eLite-Micro/src/main/java/com/han/biocentre/voorbeeldmicroservice/output/JsonOutputCreator.java
